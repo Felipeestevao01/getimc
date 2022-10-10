@@ -1,2 +1,1 @@
-# getimc
-calculo de IMC
+Exercicio para criar o calculo de IMC de uma pessoa.
